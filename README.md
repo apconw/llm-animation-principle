@@ -96,6 +96,15 @@ llm-animation-demo/
 4. **解码器处理**：逐 token 生成响应
 5. **输出生成**：最终结果展示
 
+## 演示视频
+
+| 标题 | 视频 |
+|------|------|
+| 大模型原理 | <video src="https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825) |
+| 智能体原理 | <video src="https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd) |
+| Text2SQL 原理 | <video src="https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764) |
+| DeepResearch 原理 | <video src="https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839) |
+
 ## 贡献
 
 欢迎贡献！请随时提交 Pull Request。
