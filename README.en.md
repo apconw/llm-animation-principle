@@ -1,8 +1,17 @@
-# LLM Animation Demo
+# LLM Principle Animation Demo
 
 [中文文档](README.md)
 
 An interactive visualization demo that demonstrates how Large Language Models (LLMs) work, including Transformer architecture principles and the ReAct (Reasoning + Acting) pattern.
+
+
+## Demo Videos
+
+| LLM Fundamentals | Agent Fundamentals |
+|------------------|--------------------|
+| <video src="https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825) | <video src="https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd) |
+| Text2SQL Fundamentals | DeepResearch Fundamentals |
+| <video src="https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764) | <video src="https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839) |
 
 ## Overview
 
@@ -19,13 +28,6 @@ This project provides an animated, step-by-step visualization of:
 - 💻 **Modern Stack**: Built with React 19 and Vite for fast development and performance
 - 🌐 **Bilingual Support**: Content available in both English and Chinese
 
-## Demo Videos
-
-| LLM Fundamentals | Agent Fundamentals |
-|------------------|--------------------|
-| <video src="https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825) | <video src="https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd) |
-| Text2SQL Fundamentals | DeepResearch Fundamentals |
-| <video src="https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764) | <video src="https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839" controls width="100%"></video><br>[Watch video](https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839) |
 
 ## Tech Stack
 

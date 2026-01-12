@@ -1,8 +1,17 @@
-# LLM 动画演示
+# LLM 原理动画演示
 
 [English Version](README.en.md)
 
 一个交互式可视化演示项目，展示大语言模型（LLM）的工作原理，包括 Transformer 架构原理和 ReAct（推理+行动）模式。
+
+
+## 演示视频
+
+| 大模型原理 | 智能体原理 |
+|-----------|-----------|
+| <video src="https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825) | <video src="https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd) |
+| Text2SQL 原理 | DeepResearch 原理 |
+| <video src="https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764) | <video src="https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839) |
 
 ## 项目概述
 
@@ -19,13 +28,7 @@
 - 💻 **现代技术栈**：使用 React 19 和 Vite 构建，开发快速，性能优异
 - 🌐 **双语支持**：内容支持中英文
 
-## 演示视频
 
-| 大模型原理 | 智能体原理 |
-|-----------|-----------|
-| <video src="https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/5ba382a4-93a6-45a7-8cc2-f3a05f452825) | <video src="https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/fafd2efb-e9f2-4503-bace-efea60f82ccd) |
-| Text2SQL 原理 | DeepResearch 原理 |
-| <video src="https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/0d5a61d0-6b56-4caa-9c3e-fa67baf32764) | <video src="https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839" controls width="100%"></video><br>[查看视频](https://github.com/user-attachments/assets/68164969-886e-43da-b0f7-7e3f2696d839) |
 
 ## 技术栈
 
